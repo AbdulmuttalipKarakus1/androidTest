@@ -60,6 +60,7 @@ public class App
 	 // capabilities.setCapability("appPackage", "com.android.calculator2");
 	 capabilities.setCapability(AndroidMobileCapabilityType.APP_PACKAGE, "io.selendroid.testapp");
 	  
+	 
 	  // Set android appActivity desired capability. It is
 	  // com.android.calculator2.Calculator for calculator application.
 	  // Set your application's appPackage if you are using any other app.
@@ -79,8 +80,7 @@ driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 	 
 	    @Test
 	    public void testCal() throws Exception {
-	       System.out.println("test basarili");
-	       
+	       System.out.println("test basarili");	       
 	     //  driver.findElements(By.xpath("//android.widget.Button")).get(0).click();
 	       
 	    // Enter the text in textbox
