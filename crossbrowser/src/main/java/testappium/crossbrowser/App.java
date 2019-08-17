@@ -81,6 +81,7 @@ driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 	    public void testCal() throws Exception {
 	       System.out.println("test basarili");
 	       System.out.println("test basarili");
+	       
 	     //  driver.findElements(By.xpath("//android.widget.Button")).get(0).click();
 	       
 	    // Enter the text in textbox
