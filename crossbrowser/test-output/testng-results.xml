@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14886" started-at="2019-08-17T14:00:32Z" finished-at="2019-08-17T14:00:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14886" started-at="2019-08-17T14:00:32Z" finished-at="2019-08-17T14:00:47Z">
+      <class name="testappium.crossbrowser.App">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testappium.crossbrowser.App@7276c8cd]" name="setUp" is-config="true" duration-ms="11615" started-at="2019-08-17T14:00:32Z" finished-at="2019-08-17T14:00:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCal()[pri:0, instance:testappium.crossbrowser.App@7276c8cd]" name="testCal" duration-ms="1667" started-at="2019-08-17T14:00:43Z" finished-at="2019-08-17T14:00:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCal -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testappium.crossbrowser.App@7276c8cd]" name="teardown" is-config="true" duration-ms="1579" started-at="2019-08-17T14:00:45Z" finished-at="2019-08-17T14:00:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testappium.crossbrowser.App -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
