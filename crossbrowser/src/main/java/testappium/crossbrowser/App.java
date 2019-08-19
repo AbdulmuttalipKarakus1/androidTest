@@ -61,6 +61,7 @@ public class App
 	 capabilities.setCapability(AndroidMobileCapabilityType.APP_PACKAGE, "io.selendroid.testapp");
 	  
 	 
+	 
 	  // Set android appActivity desired capability. It is
 	  // com.android.calculator2.Calculator for calculator application.
 	  // Set your application's appPackage if you are using any other app.
